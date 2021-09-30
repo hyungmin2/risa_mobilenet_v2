@@ -1,4 +1,4 @@
-# risa_mobilenet_v2
+# RISA  MobileNet V2
 - Needs Verilator
 
 ## Compile
